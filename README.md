@@ -8,7 +8,7 @@ Módulos de una adaptación de escritorio para copiar archivos entre Windows y u
 
 ### Esta revisión
 
-**2026-11-18 · Documentar la procedencia de los módulos FTP.** Registra la comparación entre el cliente de referencia y la primera copia recuperada. Esta referencia permite identificar cuáles módulos corresponden a la adaptación publicada.
+**2026-11-18 · Explicar dónde configurar los perfiles FTP.** Documenta la ubicación de registro que usa la reconstrucción y explica cómo volver a registrar los perfiles históricos. Esto permite preparar un perfil local de prueba en la ubicación correcta.
 
 ### Cómo explorar el código
 
@@ -26,7 +26,7 @@ Modules from a Windows FTP client adaptation. The recovered source shows how the
 
 ### This revision
 
-**2026-11-18 · Document the FTP modules' provenance.** Record the comparison between the reference client and the first recovered copy. This gives readers a way to identify the modules that belong to the published adaptation.
+**2026-11-18 · Explain where FTP profiles are configured.** Document the registry location used by the reconstruction and explain how to recreate historical profiles. This lets readers prepare a test profile in the correct location.
 
 ### How to explore the source
 
