@@ -8,7 +8,7 @@ Módulos de una adaptación de escritorio para copiar archivos entre Windows y u
 
 ### Esta revisión
 
-**2004-11-22 · Recuperar preferencias y transferencias en espera.** Incorpora el diálogo de preferencias de actualización, el selector de direcciones y el código que procesa descargas en espera. Estos módulos muestran cómo se configura la adaptación y cómo retoma los archivos pendientes.
+**2026-11-18 · Documentar la procedencia de los módulos FTP.** Registra la comparación entre el cliente de referencia y la primera copia recuperada. Esta referencia permite identificar cuáles módulos corresponden a la adaptación publicada.
 
 ### Cómo explorar el código
 
@@ -26,7 +26,7 @@ Modules from a Windows FTP client adaptation. The recovered source shows how the
 
 ### This revision
 
-**2004-11-22 · Recover preferences and deferred FTP transfers.** Restore the update preferences dialog, address selector, and code that processes deferred downloads. These modules show how to configure the adaptation and how it resumes pending files.
+**2026-11-18 · Document the FTP modules' provenance.** Record the comparison between the reference client and the first recovered copy. This gives readers a way to identify the modules that belong to the published adaptation.
 
 ### How to explore the source
 
